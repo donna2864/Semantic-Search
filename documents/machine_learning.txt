@@ -1,0 +1,5 @@
+Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data and make predictions or decisions.
+
+Supervised learning uses labelled data for training. Common supervised learning algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines.
+
+Unsupervised learning works with data without labelled outputs. Clustering and dimensionality reduction are common unsupervised learning techniques.

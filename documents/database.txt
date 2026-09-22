@@ -1,0 +1,5 @@
+A database is an organized collection of data that can be accessed and managed by software applications.
+
+Relational databases store data in tables consisting of rows and columns. SQL is used to create, read, update, and delete data in relational databases.
+
+Popular relational database systems include PostgreSQL, MySQL, SQLite, and Microsoft SQL Server. NoSQL databases such as MongoDB store data using document-oriented or other non-relational models.
